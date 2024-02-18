@@ -1,0 +1,21 @@
+.button{
+    background-color: white;
+    color: gray;
+    border: none;
+    border-radius: 50px;
+
+}
+.button:hover{
+    background-color: rgba(128, 128, 128, 0.153);
+}
+.Rbuttons{
+    margin-left: 200px;
+    /* top: 100%; */
+    margin-top: 40px;
+}
+.hello{
+    width: 17px;
+    height: 17px;
+    padding-bottom: 3px;
+    padding-right: 5px;
+}

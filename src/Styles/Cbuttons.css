@@ -1,0 +1,60 @@
+.botn{
+    background-color: white;
+    color: gray;
+    /* width: 10px; */
+    margin: 0px;
+    padding: 0px;
+   border: 1px solid gray;
+   border-radius: 10px;
+   margin: 5px;
+   font-size: 15px;
+   /* width: 70px; */
+}
+.botn1{
+    background-color: white;
+    color: gray;
+    width: 200px; 
+    padding: 0px;
+   /* border: 1px solid black; */
+   border-radius: 10px;
+   margin-left: 100px;
+   margin-right: 60px;
+   font-size: 15px;
+   border: none;
+ 
+}
+.botn2{
+    background-color: white;
+    color: gray;
+   padding: 0;
+   border: 1px solid gray;
+   border-radius: 10px;
+   margin: 5px;
+   font-size: 15px;
+   
+   width: 200px;
+}
+.botn:hover{
+  border: 2px solid black;
+}
+.Cbuttons{
+    display: flex;
+    margin-top: 20px;
+  
+}
+.option{
+    color: gray;
+    background-color: white;
+}
+#videosSelect{
+    position: absolute;
+    top: 92%;
+    left: 87%;
+    padding: 8px;
+    border:1px solid gray;
+    outline: none;
+    border-radius: 10px;
+    color: gray;
+    font-weight:700;
+
+}

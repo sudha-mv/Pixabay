@@ -1,0 +1,21 @@
+.card1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+  }
+  
+  .main1 {
+    margin: 10px;
+  }
+  
+  .imgcard {
+    width: 200px; 
+      height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .imgcard:hover {
+    transform: scale(1.20); 
+    transition: transform 0.2s ease;
+  }
